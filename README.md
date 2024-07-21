@@ -30,6 +30,15 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDani569&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
+<a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/JDani569/JDani569?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/JDani569?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/JDani569?style=flat-square&color=blue&logo=github">
+  </a>
 
 
 ## Let's Connect
