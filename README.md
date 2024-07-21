@@ -41,6 +41,9 @@
 - Phone: +91 6353050451
 
 Feel free to reach out to me for collaboration opportunities or to discuss projects!
+
+
+
 <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/JDani569/JDani569?style=flat-square&color=blue&logo=github">
   </a>
