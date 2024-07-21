@@ -10,7 +10,7 @@
 - Dedicated to advancing knowledge in Data Science, Data Analysis, Machine Learning, and Artificial Intelligence | Leveraging data-driven insights to drive innovation | Experienced in developing predictive models and optimizing algorithms for impactful solutions | Passionate about integrating cutting-edge technologies to tackle complex challenges.
 
 <!--  EXPERTISE  -->
-### My expertise encompasses:
+### :rocket: My expertise encompasses:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
