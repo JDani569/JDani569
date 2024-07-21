@@ -1,3 +1,8 @@
+<!--  PROFILE VISIT COUNTER  -->
+  <tr>
+   <p align="top"> <img src="https://komarev.com/ghpvc/?username=JDani569&label=Profile%20views&color=blue&style=flat" alt="JDani569" /></p>
+  </tr>
+  
 ## Hi there 👋
 
 <!--
