@@ -33,8 +33,10 @@
 
 
 
-## Let's Connect
 
+## 📫 How to reach me
+|<a href="https://www.linkedin.com/in/jainil-dani-0182471b2/"><img align="center" alt="Jainil Dani's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="https://github.com/JDani569"><img align="center" alt="Jainil Dani's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>|<a href="https://www.hackerrank.com/profile/jainil_21beitm01"><img align="center" alt="Jainil Dani's HackerRank" src="https://img.icons8.com/windows/50/000000/hackerrank.png"/></a>|
+|:---:|:---:|:---:|
 
 - Email: jainildani@gmail.com
 - Phone: +91 6353050451
