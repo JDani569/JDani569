@@ -35,8 +35,7 @@
 
 ## Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/jainil-dani)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/JDani569)
+
 - Email: jainildani@gmail.com
 - Phone: +91 6353050451
 
