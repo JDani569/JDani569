@@ -21,9 +21,7 @@
 - [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
-<a href="https://github.com/bobypanchal" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jdani569&title_color=333&text_color=777&show_icons=true" alt="Jainil Dani's GitHub Stats" >
-  </a>
+
 
 <!--  MY GITHUB STAT  -->
 <p align="center">
