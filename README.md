@@ -21,8 +21,9 @@
 - [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=JDani569&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
-
+<a href="https://github.com/bobypanchal" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jdani569&title_color=333&text_color=777&show_icons=true" alt="Jainil Dani's GitHub Stats" >
+  </a>
 
 <!--  MY GITHUB STAT  -->
 <p align="center">
