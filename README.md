@@ -21,7 +21,7 @@
 - [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=JDani569&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="JDANI569" width="100%" /> </p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=JDani569&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
 
 
 <!--  MY GITHUB STAT  -->
