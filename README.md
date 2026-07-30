@@ -39,7 +39,7 @@
 |:---:|:---:|:---:|
 
 - Email: jainildani@gmail.com
-- Phone: +91 6353050451
+
 
 Feel free to reach out to me for collaboration opportunities or to discuss projects!
 
